@@ -1,5 +1,5 @@
 # Operating Systems and Networks
 
-## General Advise
+## General Advice
 
 ## Resources

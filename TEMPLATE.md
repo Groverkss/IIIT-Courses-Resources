@@ -3,7 +3,7 @@
 ## General Advise
 
 Author:
-Advise:
+Advice:
 
 ## Resources
 

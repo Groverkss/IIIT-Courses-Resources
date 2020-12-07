@@ -1,5 +1,5 @@
 # Probability and Statistics
 
-## General Advise
+## General Advice
 
 ## Resources
