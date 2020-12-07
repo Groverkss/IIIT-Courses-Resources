@@ -2,7 +2,7 @@
 name: Resource Addition
 about: Add a resource to the list of already added courses
 title: "[COURSE NAME] [RESOURCE_NAME]"
-labels: enhancement
+labels: resource
 assignees: ''
 
 ---
