@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Course Name:
+**Course Name**:
