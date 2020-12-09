@@ -33,3 +33,19 @@
 **Your review of this resource**: Video letures are lengthy but really good. The demos using wireshark and shell utilities in between lectures are really helpful in understanding the topics practically. Watching this course alone can be boring. Pick atleast one person along with you to watch as the topics can get hard to grasp at times and can become boring.
 
 **Why do you think this resource will be useful for others?**: IIIT Prof tries to cover a very heavy book in less than a month time and usually is very theoretical with no history, reasons or demos (particularly this). This course is much better than trying to understand inclass lectures. Another thing worth mentioning is that i tried finding various resources to study networking from and found this to be the best one according to me.  
+
+### xv6 Resources
+
+**Resource Name**: xv6 Resources
+
+**Contributor (your) Name**: Kunwar Shaanjeet Singh Grover
+
+**Resource Links**: 
+1. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/lecture-notes-and-readings/MIT6_828F12_xv6-book-rev7.pdf
+2. https://github.com/YehudaShapira/xv6-explained
+
+**Have you completed studying this resource?**: Read relevant parts for xv6 assignments
+
+**Your review of this resource**: (1) is the official book with explanations that comes with xv6. (2) Are some great explanations of how and each and every part of it works. Great explanations which make you understand how things in a kernal actually work. For example a thing you can try to find yourself is "how does sleep syscall work in a kernal?"
+
+**Why do you think this resource will be useful for others?**: From what I saw in my batch, most people either copied the xv6 assignments or did not actually understand what and how they were doing it. These resources help you understand and will enhance what you will learn from that assignment or from xv6 in general.
