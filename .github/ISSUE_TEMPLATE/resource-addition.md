@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-Resource Name:
+**Resource Name**:
 
-Contributor (your) Name:
+**Contributor (your) Name**:
 
-Resource Links:
+**Resource Links**:
 
-Have you completed studying this resource?:
+**Have you completed studying this resource?**:
 
-Your review of this resource:
+**Your review of this resource**:
 
-Why do you think this resource will be useful for others?:
+**Why do you think this resource will be useful for others?**:
