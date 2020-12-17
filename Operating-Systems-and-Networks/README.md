@@ -49,3 +49,23 @@
 **Your review of this resource**: (1) is the official book with explanations that comes with xv6. (2) Are some great explanations of how and each and every part of it works. Great explanations which make you understand how things in a kernal actually work. For example a thing you can try to find yourself is "how does sleep syscall work in a kernal?"
 
 **Why do you think this resource will be useful for others?**: From what I saw in my batch, most people either copied the xv6 assignments or did not actually understand what and how they were doing it. These resources help you understand and will enhance what you will learn from that assignment or from xv6 in general.
+
+### OS course by Mythili Vutukuru (Prof at IIT Bombay)
+
+**Resource Name:** OS course by Mythili Vutukuru  (Prof at IIT Bombay) (lectures and notes) along with content related to XV6
+
+**Contributor (your) Name**: Anmol Agarwal
+
+**Resource Links:**
+1. Lecture Notes (2016 version) : https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html
+2. XV-6 content (2020 version) : https://www.cse.iitb.ac.in/~mythili/os/
+3. Lectures: https://youtube.com/playlist?list=PLTtjs-HViBW7HPvOPDNarA-e1WAU23tKG
+
+**Have you completed studying this resource?:** The course seems to be divided into 7 parts: A,B,C,D,X,N,Z. Parts A,B,C,D have accompanying lectures. Some parts reference the **OSTEP Three Easy Pieces** as lecture notes while the other parts have notes compiled by the instructor herself.
+I have viewed lectures and read notes of parts A,B,C,D and X. Haven't done the assignments here.
+
+**Your review of this resource:** The lectures have great clarity content wise and the notes (the ones which have been compiled by the instructor herself) are extremely concise,well-written(Eg:https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/notes/02-processes-threads.pdf) and the sequence in which topics are covered is perfect.
+
+
+**Why do you think this resource will be useful for others?:**
+The lectures by the IIIT instructor (in Monsoon 2020) were boring and did not add anything to the content already covered by the course textbook(Silberschatz). Prof Vutukuru uses the OSTEP book as the main reference textbook (which helps if you are already planning to use the OSTEP Three Easy Pieces book)  and the **lecture videos are short (~20 min)** but still more insightful and informative than the entire course at IIIT. Even if you don’t have enough time to view the lectures, the written notes (in link 1) are likely to confirm several of your own thoughts, conclusions, insights etc which you derive from the course.
