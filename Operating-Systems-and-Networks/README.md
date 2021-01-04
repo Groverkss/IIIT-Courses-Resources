@@ -98,7 +98,7 @@ Ishaan Shah 16/08/2020
 -----
 Aman Rojjha 19/08/2020
 
-[file-implementation-Simple.pdf](/file-implementation-Simple.pdf) was shared last year for this assignment. Should've shared earlier (Even I forgot about this!)
+[file-implementation-Simple.pdf](/Operating-Systems-and-Networks/file-implementation-Simple.pdf) was shared last year for this assignment. Should've shared earlier (Even I forgot about this!)
 
 ------
 Shaanjeet 28/08/2020
@@ -115,7 +115,7 @@ Shaanjeet 28/08/2020
 ------
 Pulak Malhotra 28/08/2020
 
-Another resource to write your own OS from scratch (University of Birmingham): [Writing_Simple_OS_from_Scratch.pdf](/Writing_Simple_OS_from_Scratch.pdf)
+Another resource to write your own OS from scratch (University of Birmingham): [Writing_Simple_OS_from_Scratch.pdf](/Operating-Systems-and-Networks/Writing_Simple_OS_from_Scratch.pdf)
 
 ------
 Shashwat Goel 29/08/2020
