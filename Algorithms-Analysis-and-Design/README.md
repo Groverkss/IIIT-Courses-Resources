@@ -20,20 +20,20 @@ If you are watching them for a particular topic, usually they require you to kno
 
 **Prequistics**: A good grasp on DSA. This course will test your skills in DSA. You should be prepared for mathematical proofs as there will be a lot of proving. Some parts also require you to know probablility, random variables. If you are not confident in mathematics, you can refer to MIT OCW 6.042J https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/ 6.046 assumes you have done this course well.
 
----
+##
 
 Kunwar Shaanjeet — 08/13/2020
 For people who didnt have RA: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_Session11.pdf
 
 Useful resource on infinite sets
 
----
+##
 
 Kunwar Shaanjeet — 08/25/2020
 
 https://jeffe.cs.illinois.edu/teaching/algorithms/notes/12-lowerbounds.pdf
 
---- 
+## 
 
 Nikhil Chandak — 09/09/2020
 
