@@ -16,6 +16,8 @@
 the author gives an intuitive explanation for the proof. While it is
 recommended to read the proofs, you can skip over them for a first read.
 
+## 
+
 **Resource Name**: Automata, Computability and Complexity
 
 **Contributor (your) Name**: Alapan Chaudhuri
