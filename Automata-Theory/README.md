@@ -15,3 +15,17 @@
 **Your review of this resource**: Really well written book. Before each proof,
 the author gives an intuitive explanation for the proof. While it is
 recommended to read the proofs, you can skip over them for a first read.
+
+## 
+
+**Resource Name**: Automata, Computability and Complexity
+
+**Contributor (your) Name**: Alapan Chaudhuri
+
+**Resource Links**: [Video Lectures](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html), [MIT OCW course details](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/index.htm)
+
+**Have you completed studying this resource?**: No, covered partially.
+
+**Your review of this resource**: Scott Aaronson covers basics of a lot of topics.
+I love how he explains stuff. Arguably, these are some of the best resources on Automata 
+Theory and Introductory Complexity Theory.

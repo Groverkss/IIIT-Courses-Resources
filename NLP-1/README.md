@@ -29,7 +29,7 @@ need to google around to properly understand whats happening. I would recommend
 to go through it, and make it (atleast the first 2 parts) but do not consider
 it as a bible when trying to code
 
------
+##
 
 Resource Name: Intro-to-NLP1
 
@@ -55,7 +55,7 @@ decisions which I took to create a basic Language Model. This also explains
 dimensions properly, which I felt was the toughest part to understand with
 respect to NNs.
 
------
+##
 
 Resource Name: 3b1b
 
