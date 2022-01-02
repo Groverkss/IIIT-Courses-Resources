@@ -13,7 +13,7 @@ Feel free to create a pull request to contribute! I check my emails daily and
 will reply with suggestions or will directly merge it within 1 day at max. 
 
 If you want to be anonymous, you can either create an anonymous account on
-github and send it.
+github and send it or email me: groverkss@gmail.com
 
 Some suggestions:
 
