@@ -15,10 +15,6 @@ introduce you to the same core concepts.
 
 ## Resources
 
-https://cliutils.gitlab.io/modern-cmake/
-
-https://github.com/ssloy/tinyrenderer
-
 **Resource Name**: Learn OpenGL Book
 
 **Contributor (your) Name**: Kunwar Shaanjeet Singh Grover
