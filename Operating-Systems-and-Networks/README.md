@@ -23,7 +23,7 @@
 **Contributor (your) Name**: Kunwar Shaanjeet Singh Grover
 
 **Resource Links**: 
-1. Videos: https://www.bilibili.com/video/BV137411Z7LR (The original youtube links got deleted. Since everything on internet is permanent, here is a chineese link)
+1. Videos: https://www.bilibili.com/video/BV137411Z7LR ~~(The original youtube links got deleted. Since everything on internet is permanent, here is a chineese link)~~ Someone has uploaded the playlist from Bilibili onto Youtube as well unofficially https://www.youtube.com/playlist?list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN
 2. Notes: https://github.com/khanhnamle1994/computer-networking
 3. Assignments:  https://github.com/PrincetonUniversity/COS461-Public
 
